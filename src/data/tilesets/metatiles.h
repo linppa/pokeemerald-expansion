@@ -207,3 +207,9 @@ const u16 gMetatileAttributes_MysteryEventsHouse[] = INCBIN_U16("data/tilesets/s
 
 const u16 gMetatiles_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/union_room/metatiles.bin");
 const u16 gMetatileAttributes_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/union_room/metatile_attributes.bin");
+
+const u16 gMetatiles_FRLGStyle[] = INCBIN_U16("data/tilesets/primary/frlgstyle/metatiles.bin");
+const u16 gMetatileAttributes_FRLGStyle[] = INCBIN_U16("data/tilesets/primary/frlgstyle/metatile_attributes.bin");
+
+const u16 gMetatiles_snow_recolor[] = INCBIN_U16("data/tilesets/primary/snow_recolor/metatiles.bin");
+const u16 gMetatileAttributes_snow_recolor[] = INCBIN_U16("data/tilesets/primary/snow_recolor/metatile_attributes.bin");
