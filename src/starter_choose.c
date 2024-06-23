@@ -117,7 +117,7 @@ static const u16 sStarterMon[STARTER_MON_COUNT] =
     // SPECIES_MUDKIP,
     SPECIES_CYNDAQUIL,
     SPECIES_SPRIGATITO,
-    SPECIES_OSHAWOTT,
+    SPECIES_SWIRLIX,
 };
 
 static const struct BgTemplate sBgTemplates[3] =
